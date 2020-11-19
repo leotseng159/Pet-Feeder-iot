@@ -25,4 +25,9 @@ Este projeto tem como objetivo o estudo e aprofundamento na internet das coisas,
 -  Cabo Wire Jumper Macho-femea
 -  Conversor de Nível Lógico 3,3-5V Bidirecional
 
+# Circuito da montagem
+![](https://github.com/leotseng159/Pet-Feeder-iot/blob/main/Prototipo.jpg)
+
+
+
 
