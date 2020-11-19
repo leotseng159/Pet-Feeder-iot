@@ -31,6 +31,10 @@ Este projeto tem como objetivo o estudo e aprofundamento na internet das coisas,
 # Propotipo 
 ![](https://github.com/leotseng159/Pet-Feeder-iot/blob/main/Prototipo.jpg)
 
+# Fluxograma 
+![](https://github.com/leotseng159/Pet-Feeder-iot/blob/main/Fluxograma.jpeg)
+
+
 # Bibliotecas utilizadas
 [ESP8266 core for Arduino](https://github.com/esp8266/Arduino)
 <br> [PubSubClient](https://github.com/knolleary/pubsubclient)
