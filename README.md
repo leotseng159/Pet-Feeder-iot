@@ -26,8 +26,14 @@ Este projeto tem como objetivo o estudo e aprofundamento na internet das coisas,
 -  Conversor de Nível Lógico 3,3-5V Bidirecional
 
 # Circuito da montagem
+![](https://github.com/leotseng159/Pet-Feeder-iot/blob/main/cuircuitoPet.png)
+
+# Propotipo 
 ![](https://github.com/leotseng159/Pet-Feeder-iot/blob/main/Prototipo.jpg)
 
+# Bibliotecas utilizadas
+[ESP8266 core for Arduino](https://github.com/esp8266/Arduino)
+<br> [PubSubClient](https://github.com/knolleary/pubsubclient)
 
 
 
