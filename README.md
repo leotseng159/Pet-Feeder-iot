@@ -28,8 +28,10 @@ Este projeto tem como objetivo o estudo e aprofundamento na internet das coisas,
 # Circuito da montagem
 ![](https://github.com/leotseng159/Pet-Feeder-iot/blob/main/cuircuitoPet.png)
 
-# Propotipo 
+# Protótipo 
 ![](https://github.com/leotseng159/Pet-Feeder-iot/blob/main/Prototipo.jpg)
+<br>
+![](https://github.com/leotseng159/Pet-Feeder-iot/blob/main/Prototipo-2.jpeg)
 
 # Fluxograma 
 ![](https://github.com/leotseng159/Pet-Feeder-iot/blob/main/Fluxograma.jpeg)
